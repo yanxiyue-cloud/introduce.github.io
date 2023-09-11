@@ -1,0 +1,629 @@
+/*---------------------------------------------------------------------------------
+    Responsive css
+-----------------------------------------------------------------------------------*/
+@media only screen and (max-width: 1600px) {
+  .cv-service:before {
+    width: calc(100% - 100px);
+  }
+}
+@media only screen and (max-width: 1450px) {
+  .cv-home .cv-detail .info .heading h1 {
+    font-size: 22px;
+  }
+  .cv-home .cv-detail .info .heading h1 .underline {
+    font-size: 40px;
+  }
+  .cv-service:before {
+    width: calc(100% - 60px);
+  }
+  .cv-about-section .bold-txt {
+    font-size: 28px;
+  }
+  .bg .title-txt h2 {
+    font-size: 28px;
+  }
+  .cv-experience-section .bold-txt {
+    font-size: 28px;
+  }
+  .cv-news-section .title-txt h2 {
+    font-size: 28px;
+  }
+  .cv-contact-section .bold-txt {
+    font-size: 28px;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .cv-home .cv-row:after {
+    width: 75px;
+  }
+  .cv-home:after {
+    width: 59px;
+  }
+  .cv-home:before {
+    width: 75px;
+  }
+  .cv-home .shape:after {
+    width: 100px;
+  }
+  .cv-home .profile-img:after {
+    width: 55px;
+    height: 55px;
+    left: 5%;
+  }
+  .cv-home .profile-img:before {
+    width: 55px;
+    height: 55px;
+  }
+  .cv-detail .info .heading h1 {
+    font-size: 40px;
+  }
+  .cv-about-section .cv-skill-progress .skill-box .inner-content {
+    padding: 36px 20px;
+  }
+  .cv-about-section .cv-skill-progress .skill-box .inner-content .skill-img img {
+    width: 40px;
+  }
+  .cv-about-section .cv-skill-progress .skill-box .inner-content p {
+    font-size: 22px;
+  }
+  .cv-about-section .experience-box span {
+    font-size: 13px;
+  }
+  .cv-service:before {
+    width: 100%;
+    border-radius: 0;
+  }
+  .cv-portfolio-section:before {
+    width: 100%;
+    border-radius: 0px;
+  }
+  .cv-news-section .news-box .news-img .marketing {
+    padding: 15px 10px;
+  }
+  .cv-news-section .news-box .news-img .marketing .inner-bold-txt {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .cv-news-section .news-box .news-img .top .date {
+    font-size: 12px;
+    right: 10px;
+    top: 10px;
+  }
+  .cv-news-section .news-box .box-bottom .colored-txt {
+    font-size: 13px;
+  }
+  .cv-news-section .news-box .box-bottom .light-txt {
+    font-size: 13px;
+  }
+  .cv-instagram-section .insta-img .insta-icon {
+    padding: 25px 100px;
+  }
+  .cv-instagram-section .insta-img .insta-icon a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .cv-instagram-section .insta-img .insta-icon img {
+    width: 50px;
+  }
+  .cv-instagram-section .cv-copy {
+    font-size: 13px;
+  }
+  .cv-item h5 {
+    font-size: 16px;
+  }
+  .cv-item p {
+    font-size: 14px;
+  }
+  .cv-home .cv-detail .info .heading h1 .underline {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .cv-about-section .bold-txt {
+    font-size: 26px;
+  }
+  .bg .title-txt h2 {
+    font-size: 26px;
+  }
+  .cv-experience-section .bold-txt {
+    font-size: 26px;
+  }
+  .cv-news-section .title-txt h2 {
+    font-size: 26px;
+  }
+  .cv-contact-section .bold-txt {
+    font-size: 26px;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .skill-box {
+    margin-bottom: 30px;
+  }
+  .cv-static,
+  .cv-fixed {
+    padding: 5px 0;
+  }
+  .cv-home {
+    height: 80vh;
+  }
+  .cv-home .profile-img:after {
+    width: 55px;
+    height: 55px;
+    left: 0;
+  }
+  .cv-home .profile-img .growth-status {
+    margin: -50px auto 10px 10px;
+  }
+  .cv-about-section:before {
+    width: 280px;
+    height: 307px;
+  }
+  .cv-experience-section:before {
+    width: 280px;
+    height: 307px;
+  }
+  .cv-experience-section .box {
+    margin-bottom: 50px;
+  }
+  div#experience {
+    margin-bottom: -50px;
+  }
+  .cv-news-section:before {
+    width: 280px;
+    height: 307px;
+  }
+  .cv-news-section .news-box .box-bottom .colored-txt {
+    font-size: 12px;
+  }
+  .cv-news-section .news-box .box-bottom .light-txt {
+    font-size: 12px;
+  }
+  .cv-instagram-section .insta-img .img {
+    margin-bottom: 30px;
+  }
+  .cv-instagram-section .insta-img .insta-icon {
+    margin-top: -15px !important;
+  }
+  .insta-img {
+    margin-bottom: -30px;
+  }
+  .navbar-dark .navbar-toggler {
+    padding: 5px 8px;
+    color: #777;
+  }
+  .navbar-dark .navbar-toggler:focus {
+    outline: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .navbar-collapse .navbar-nav {
+    margin: 15px 0 !important;
+    padding: 15px;
+    background: #fff;
+    border-radius: 30px;
+    border: 1px solid #eee;
+  }
+  .navbar-collapse .navbar-nav .nav-link {
+    color: #777;
+  }
+  .navbar-collapse .navbar-nav .nav-link:hover {
+    color: #777;
+  }
+  .cv-home .cv-detail .info .heading h1 {
+    font-size: 20px;
+    line-height: 35px;
+  }
+  .cv-home .cv-detail .info .heading h1 .underline {
+    font-size: 32px;
+  }
+  .cv-about-section .bold-txt {
+    margin-bottom: 15px;
+    font-size: 24px;
+  }
+  .bg .title-txt h2 {
+    font-size: 24px;
+  }
+  .cv-experience-section .bold-txt {
+    font-size: 24px;
+  }
+  .cv-news-section .title-txt h2 {
+    font-size: 24px;
+  }
+  .cv-contact-section .bold-txt {
+    font-size: 24px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .bg {
+    padding: 70px 0;
+  }
+  .padding-tb-50 {
+    padding: 35px 0;
+  }
+  .padding-t-50 {
+    padding-top: 35px;
+  }
+  .padding-b-50 {
+    padding-bottom: 35px;
+  }
+  .margin-tb-50 {
+    margin: 35px 0;
+  }
+  .margin-t-50 {
+    margin-top: 35px;
+  }
+  .margin-b-50 {
+    margin-bottom: 35px;
+  }
+  .cv-row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .cv-home {
+    height: 100%;
+    padding: 100px 0 50px 0 !important;
+  }
+  .cv-home .profile-img .cv-profile {
+    max-width: 350px;
+    margin-bottom: 15px;
+  }
+  .cv-home .cv-detail .info .buttons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .cv-home .cv-detail .info .heading h1 {
+    font-size: 33px;
+    line-height: 38px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 55px;
+  }
+  .cv-home .cv-detail .info .heading h1 .underline {
+    border: 0;
+  }
+  .cv-home .cv-detail .info .heading h5 {
+    text-align: center;
+  }
+  .cv-home .scroll-down {
+    display: none;
+  }
+  .cv-about-section:before {
+    width: 180px;
+    height: 200px;
+  }
+  .cv-experience-section:before {
+    width: 180px;
+    height: 200px;
+  }
+  .cv-experience-section .right-txt {
+    margin-bottom: 24px;
+    float: none;
+  }
+  .cv-experience-section .row {
+    text-align: center;
+  }
+  .cv-news-section:before {
+    width: 180px;
+    height: 200px;
+  }
+  .cv-news-section .news-box .news-img .marketing {
+    padding: 0px 10px;
+  }
+  .cv-news-section .news-box .news-img .marketing .inner-bold-txt {
+    font-size: 12px;
+  }
+  .cv-news-section .news-box .news-img .marketing .inner-head-txt {
+    font-size: 12px;
+  }
+  .cv-news-section .news-box .news-img .top .date {
+    padding: 5px 11px;
+    font-size: 12px;
+  }
+  .cv-news-section .news-box .box-bottom {
+    padding: 10px 10px;
+  }
+  .cv-contact-section .contact-details .contact-us {
+    max-width: 100%;
+    position: relative;
+    right: 0px;
+    bottom: 0;
+  }
+  .cv-home .cv-detail .info .heading h1 {
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 33px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
+  }
+  .cv-home .cv-detail .info .heading h1 .underline {
+    font-size: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .cv-home .cv-detail .info .heading p {
+    text-align: center;
+  }
+  .cv-about-section .bold-txt {
+    font-size: 22px;
+  }
+  .bg .title-txt h2 {
+    font-size: 22px;
+  }
+  .cv-experience-section .bold-txt {
+    font-size: 22px;
+  }
+  .cv-news-section .title-txt h2 {
+    font-size: 22px;
+  }
+  .cv-contact-section .bold-txt {
+    font-size: 22px;
+  }
+  #cv_experience .nav-tabs {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .cv-contact-section iframe {
+    height: 300px;
+    margin-bottom: 30px;
+  }
+  #news {
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .cv-home:after {
+    width: 37px;
+  }
+  .cv-home:before {
+    width: 44px;
+  }
+  .cv-home .shape:after {
+    width: 60px;
+  }
+  .cv-home .cv-row:after {
+    right: 0;
+    width: 44px;
+  }
+  .cv-home .profile-img {
+    width: 350px;
+  }
+  .cv-home .cv-detail .info h1 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  .cv-home .cv-detail .info .heading p {
+    font-size: 14px;
+  }
+  .cv-about-section .personal-detail .short-info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .cv-about-section .personal-detail .lh {
+    line-height: 40px;
+  }
+  .cv-about-section .img-sec {
+    margin-top: 16px;
+  }
+  .cv-about-section .about-description .bold-txt {
+    margin-bottom: 16px;
+  }
+  .cv-about-section .cv-skill-progress .skill-box .inner-content {
+    padding: 30px 17px;
+  }
+  .cv-about-section .cv-skill-progress .skill-box .inner-content .skill-img img {
+    width: 29px;
+  }
+  .cv-about-section .cv-skill-progress .skill-box .inner-content p {
+    font-size: 16px;
+    line-height: 0;
+  }
+  .cv-about-section .cv-skill-progress .skill-box .skill-name {
+    font-size: 14px;
+  }
+  .main-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .main-box .box-img {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .main-box .box-txt {
+    margin-left: 0 !important;
+    margin-top: 30px;
+    text-align: center;
+  }
+  .cv-experience-section .box .description .light-txt {
+    font-size: 14px;
+  }
+  .cv-news-section .news-box .news-img .top .date {
+    padding: 10px 15px;
+    font-size: 13px;
+  }
+  .cv-news-section .news-box .news-img .marketing {
+    padding: 25px 10px;
+    font-size: 13px;
+  }
+  .cv-news-section .news-box .news-img .marketing .inner-head-txt {
+    font-size: 16px;
+  }
+  .cv-news-section .news-box .news-img .marketing .inner-bold-txt {
+    font-size: 16px;
+  }
+  .cv-news-section .news-box .box-bottom {
+    padding: 10px 25px;
+  }
+  .navbar-dark .navbar-brand img {
+    width: 100px;
+  }
+  .cv-home .cv-detail .info .heading h1 {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .cv-home .cv-detail .info .heading h1 .underline {
+    font-size: 26px;
+  }
+  .cv-home .profile-img .growth-status {
+    display: none;
+  }
+  .cv-about-section .bold-txt {
+    font-size: 20px;
+    line-height: 35px;
+  }
+  .bg .title-txt h2 {
+    font-size: 20px;
+    line-height: 35px;
+  }
+  .cv-experience-section .bold-txt {
+    font-size: 20px;
+    line-height: 35px;
+  }
+  .cv-news-section .title-txt h2 {
+    font-size: 20px;
+    line-height: 35px;
+  }
+  .cv-contact-section .bold-txt {
+    font-size: 20px;
+    line-height: 35px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .cv-section .bold-txt {
+    text-align: center;
+  }
+  .cv-about-section .light-txt {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .cv-home {
+    overflow: hidden;
+  }
+  .cv-home .profile-img:before {
+    right: 5%;
+  }
+  .cv-home .profile-img .cv-profile {
+    max-width: 330px;
+  }
+  .cv-news-section .news-box .news-img .marketing {
+    padding: 15px 10px;
+  }
+  .cv-news-section .news-box .news-img .marketing .inner-head-txt {
+    font-size: 13px;
+  }
+  .cv-news-section .news-box .news-img .marketing .inner-bold-txt {
+    font-size: 12px;
+  }
+  .cv-news-section .news-box .news-img .top .date {
+    font-size: 12px;
+    right: 10px;
+    top: 10px;
+  }
+  .cv-news-section .news-box .box-bottom .colored-txt {
+    font-size: 13px;
+  }
+  .cv-news-section .news-box .box-bottom .light-txt {
+    font-size: 13px;
+  }
+  .cv-instagram-section .cv-copy {
+    padding: 15px;
+    text-align: center;
+  }
+  .cv-about-section .experience-box {
+    width: 100%;
+    left: 0;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .cv-home .profile-img .profile-detail {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .cv-home .profile-img .growth-status {
+    margin: -40px auto 12px 30px;
+  }
+  .cv-home .profile-img:before {
+    right: 14%;
+    width: 35px;
+    height: 35px;
+  }
+  .cv-home .profile-img:after {
+    width: 35px;
+    height: 35px;
+    left: 14%;
+  }
+  .cv-home .profile-img .cv-profile {
+    max-width: 260px;
+  }
+  .cv-home .cv-detail .info h1 {
+    font-size: 23px;
+    line-height: 28px;
+  }
+  h2 .bold-txt {
+    text-align: center;
+  }
+  .cv-service .bg .head-txt {
+    text-align: center;
+  }
+  .section-title h2 {
+    font-size: 23px;
+    line-height: 25px;
+  }
+  .cv-skill-progress h5 {
+    font-size: 13px;
+  }
+  .achive .count-block h3 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .cv-insta-wrapper .cv-title h2 {
+    font-size: 17px;
+    line-height: 22px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

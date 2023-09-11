@@ -1,0 +1,1005 @@
+{
+	"nodes": [
+		{
+			"id": 0,
+			"name": "我的那些事儿",
+			"symbolSize": 66,
+			"value": 100,
+			"category": 6
+		},
+		{
+			"id": 1,
+			"name": "爱好",
+			"symbolSize": 30,
+			"value": 60,
+			"category": 0
+		},
+		{
+			"id": 2,
+			"name": "价值观",
+			"symbolSize": 30,
+			"value": 60,
+			"category": 1
+		},
+		{
+			"id": 3,
+			"name": "性格",
+			"symbolSize": 30,
+			"value": 60,
+			"category": 2
+		},
+		{
+			"id": 4,
+			"name": "愿景",
+			"symbolSize": 30,
+			"value": 60,
+			"category": 3
+		},
+		{
+			"id": 5,
+			"name": "特点",
+			"symbolSize": 30,
+			"value": 60,
+			"category": 4
+		},
+		{
+			"id": 6,
+			"name": "标签",
+			"symbolSize": 30,
+			"value": 60,
+			"category": 5
+		},
+		{
+			"id": 7,
+			"name": "视频",
+			"symbolSize": 25,
+			"value": 50,
+			"category": 0
+		},
+		{
+			"id": 8,
+			"name": "事业",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 9,
+			"name": "成长",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 10,
+			"name": "女性",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 11,
+			"name": "个人",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 12,
+			"name": "社会",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 13,
+			"name": "家庭",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 14,
+			"name": "阅读",
+			"symbolSize": 25,
+			"value": 50,
+			"category": 0
+		},
+		{
+			"id": 15,
+			"name": "杂志",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 16,
+			"name": "小说",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 17,
+			"name": "短篇",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 18,
+			"name": "故事",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 19,
+			"name": "茶话",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 20,
+			"name": "中篇",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 21,
+			"name": "长篇",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 22,
+			"name": "运动",
+			"symbolSize": 25,
+			"value": 50,
+			"category": 0
+		},
+		{
+			"id": 23,
+			"name": "羽毛球",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 24,
+			"name": "跑步",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 25,
+			"name": "跳绳",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 26,
+			"name": "瑜伽",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 0
+		},
+		{
+			"id": 27,
+			"name": "富强",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 28,
+			"name": "民主",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 29,
+			"name": "文明",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 30,
+			"name": "和谐",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 31,
+			"name": "自由",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 32,
+			"name": "平等",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 33,
+			"name": "公正",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 34,
+			"name": "法治",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 35,
+			"name": "爱国",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 36,
+			"name": "敬业",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 37,
+			"name": "诚信",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 38,
+			"name": "友善",
+			"symbolSize": 20,
+			"value": 40,
+			"category": 2
+		},
+		{
+			"id": 39,
+			"name": "开朗",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 40,
+			"name": "安静",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 41,
+			"name": "疯狂",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 42,
+			"name": "理智",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 43,
+			"name": "感性",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 44,
+			"name": "勤奋",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 45,
+			"name": "严谨",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 46,
+			"name": "细心",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 47,
+			"name": "耿直",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 48,
+			"name": "热情",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 49,
+			"name": "独立",
+			"symbolSize": 17.5,
+			"value": 35,
+			"category": 3
+		},
+		{
+			"id": 50,
+			"name": "幸福",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 51,
+			"name": "安康",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 52,
+			"name": "大海",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 53,
+			"name": "big house",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 54,
+			"name": "beauty",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 55,
+			"name": "thin",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 56,
+			"name": "快乐",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 57,
+			"name": "气质",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 58,
+			"name": "much money",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 59,
+			"name": "世界和平",
+			"symbolSize": 15,
+			"value": 30,
+			"category": 4
+		},
+		{
+			"id": 60,
+			"name": "反思",
+			"symbolSize": 10,
+			"value": 20,
+			"category": 5
+		},
+		{
+			"id": 61,
+			"name": "摆烂",
+			"symbolSize": 10,
+			"value": 20,
+			"category": 5
+		},
+		{
+			"id": 62,
+			"name": "拖延",
+			"symbolSize": 10,
+			"value": 20,
+			"category": 5
+		},
+		{
+			"id": 63,
+			"name": "躺不平",
+			"symbolSize": 10,
+			"value": 20,
+			"category": 5
+		},
+		{
+			"id": 64,
+			"name": "摆不烂",
+			"symbolSize": 10,
+			"value": 20,
+			"category": 5
+		},
+		{
+			"id": 65,
+			"name": "挣扎",
+			"symbolSize": 10,
+			"value": 20,
+			"category": 5
+		},
+		{
+			"id": 66,
+			"name": "纠结",
+			"symbolSize": 10,
+			"value": 20,
+			"category": 5
+		},
+		{
+			"id": 67,
+			"name": "大学生",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 68,
+			"name": "青年",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 69,
+			"name": "逗比",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 70,
+			"name": "王源",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 71,
+			"name": "选择恐惧症",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 72,
+			"name": "花草",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 73,
+			"name": "学习是种坚持",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 74,
+			"name": "逛街",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 75,
+			"name": "不吃肉不能活",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 76,
+			"name": "小清新",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 77,
+			"name": "轻音乐",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 78,
+			"name": "宫崎骏",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		},
+		{
+			"id": 79,
+			"name": "话痨",
+			"symbolSize": 12.5,
+			"value": 25,
+			"category": 6
+		}
+	],
+	"links": [
+		{
+			"source": 1,
+			"target": 0
+		},
+		{
+			"source": 2,
+			"target": 0
+		},
+		{
+			"source": 3,
+			"target": 0
+		},
+		{
+			"source": 4,
+			"target": 0
+		},
+		{
+			"source": 5,
+			"target": 0
+		},
+		{
+			"source": 6,
+			"target": 0
+		},
+		{
+			"source": 7,
+			"target": 0
+		},
+		{
+			"source": 8,
+			"target": 7
+		},
+		{
+			"source": 9,
+			"target": 7
+		},
+		{
+			"source": 10,
+			"target": 7
+		},
+		{
+			"source": 11,
+			"target": 7
+		},
+		{
+			"source": 12,
+			"target": 7
+		},
+		{
+			"source": 13,
+			"target": 7
+		},
+		{
+			"source": 14,
+			"target": 1
+		},
+		{
+			"source": 15,
+			"target": 14
+		},
+		{
+			"source": 16,
+			"target": 14
+		},
+		{
+			"source": 17,
+			"target": 14
+		},
+		{
+			"source": 18,
+			"target": 14
+		},
+		{
+			"source": 19,
+			"target": 14
+		},
+		{
+			"source": 16,
+			"target": 17
+		},
+		{
+			"source": 18,
+			"target": 17
+		},
+		{
+			"source": 20,
+			"target": 14
+		},
+		{
+			"source": 21,
+			"target": 14
+		},
+		{
+			"source": 16,
+			"target": 20
+		},
+		{
+			"source": 16,
+			"target": 20
+		},
+		{
+			"source": 18,
+			"target": 21
+		},
+		{
+			"source": 18,
+			"target": 21
+		},
+		{
+			"source": 23,
+			"target": 22
+		},
+		{
+			"source": 24,
+			"target": 22
+		},
+		{
+			"source": 25,
+			"target": 22
+		},
+		{
+			"source": 26,
+			"target": 22
+		},
+		{
+			"source": 22,
+			"target": 1
+		},
+		{
+			"source": 27,
+			"target": 2
+		},
+		{
+			"source": 28,
+			"target": 2
+		},
+		{
+			"source": 29,
+			"target": 2
+		},
+		{
+			"source": 30,
+			"target": 2
+		},
+		{
+			"source": 31,
+			"target": 2
+		},
+		{
+			"source": 32,
+			"target": 2
+		},
+		{
+			"source": 33,
+			"target": 2
+		},
+		{
+			"source": 34,
+			"target": 2
+		},
+		{
+			"source": 35,
+			"target": 2
+		},
+		{
+			"source": 36,
+			"target": 2
+		},
+		{
+			"source": 37,
+			"target": 2
+		},
+		{
+			"source": 38,
+			"target": 2
+		},
+		{
+			"source": 30,
+			"target": 27
+		},
+		{
+			"source": 29,
+			"target": 28
+		},
+		{
+			"source": 28,
+			"target": 29
+		},
+		{
+			"source": 27,
+			"target": 30
+		},
+		{
+			"source": 34,
+			"target": 31
+		},
+		{
+			"source": 33,
+			"target": 32
+		},
+		{
+			"source": 32,
+			"target": 33
+		},
+		{
+			"source": 31,
+			"target": 34
+		},
+		{
+			"source": 38,
+			"target": 35
+		},
+		{
+			"source": 37,
+			"target": 36
+		},
+		{
+			"source": 36,
+			"target": 37
+		},
+		{
+			"source": 35,
+			"target": 38
+		},
+		{
+			"source": 39,
+			"target": 3
+		},
+		{
+			"source": 40,
+			"target": 3
+		},
+		{
+			"source": 41,
+			"target": 3
+		},
+		{
+			"source": 42,
+			"target": 3
+		},
+		{
+			"source": 43,
+			"target": 3
+		},
+		{
+			"source": 44,
+			"target": 3
+		},
+		{
+			"source": 45,
+			"target": 3
+		},
+		{
+			"source": 46,
+			"target": 3
+		},
+		{
+			"source": 47,
+			"target": 3
+		},
+		{
+			"source": 48,
+			"target": 3
+		},
+		{
+			"source": 49,
+			"target": 3
+		},
+		{
+			"source": 43,
+			"target": 42
+		},
+		{
+			"source": 41,
+			"target": 39
+		},
+		{
+			"source": 40,
+			"target": 40
+		},
+		{
+			"source": 39,
+			"target": 41
+		},
+		{
+			"source": 50,
+			"target": 4
+		},
+		{
+			"source": 51,
+			"target": 4
+		},
+		{
+			"source": 52,
+			"target": 4
+		},
+		{
+			"source": 53,
+			"target": 4
+		},
+		{
+			"source": 54,
+			"target": 4
+		},
+		{
+			"source": 55,
+			"target": 4
+		},
+		{
+			"source": 56,
+			"target": 4
+		},
+		{
+			"source": 57,
+			"target": 4
+		},
+		{
+			"source": 58,
+			"target": 4
+		},
+		{
+			"source": 51,
+			"target": 50
+		},
+		{
+			"source": 59,
+			"target": 4
+		},
+		{
+			"source": 7,
+			"target": 1
+		},
+		{
+			"source": 60,
+			"target": 5
+		},
+		{
+			"source": 61,
+			"target": 5
+		},
+		{
+			"source": 62,
+			"target": 5
+		},
+		{
+			"source": 63,
+			"target": 5
+		},
+		{
+			"source": 64,
+			"target": 5
+		},
+		{
+			"source": 65,
+			"target": 5
+		},
+		{
+			"source": 66,
+			"target": 5
+		},
+		{
+			"source": 64,
+			"target": 63
+		},
+		{
+			"source": 67,
+			"target": 6
+		},
+		{
+			"source": 68,
+			"target": 6
+		},
+		{
+			"source": 69,
+			"target": 6
+		},
+		{
+			"source": 70,
+			"target": 6
+		},
+		{
+			"source": 71,
+			"target": 6
+		},
+		{
+			"source": 72,
+			"target": 6
+		},
+		{
+			"source": 73,
+			"target": 6
+		},
+		{
+			"source": 74,
+			"target": 6
+		},
+		{
+			"source": 75,
+			"target": 6
+		},
+		{
+			"source": 76,
+			"target": 6
+		},
+		{
+			"source": 77,
+			"target": 6
+		},
+		{
+			"source": 78,
+			"target": 6
+		},
+		{
+			"source": 79,
+			"target": 6
+		}
+	],
+	"categories": [
+		{
+			"name": "爱好"
+		},
+		{
+			"name": "价值观"
+		},
+		{
+			"name": "性格"
+		},
+		{
+			"name": "愿景"
+		},
+		{
+			"name": "特点"
+		},
+		{
+			"name": "标签"
+		},
+		{
+			"name": "标题"
+		}
+	]
+}
